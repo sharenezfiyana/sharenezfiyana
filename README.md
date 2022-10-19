@@ -1,6 +1,6 @@
 [![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/191791/image-1582329433118-623eeeb89c50ec545990667e9cbebb41.png)](https://sharenezfiyana.io)
 <h1 align="center">Hello 👋, I'm Sharen Ezfiyana</h1>
-<h3 align="center">I am a Computer Science Student who lives in Jakarta, Indonesia. Having work experience as Associate Member Programmer. Feel free to create pull request to contribute to any of my repositories.</h3>
+<h3 align="center">I am a Computer Science Student who lives in Jakarta, Indonesia. Having work experiences as Associate Member Programmer and Web Developer. Feel free to create pull request to contribute to any of my repositories.</h3>
 <img align="right" alt="Coding gif" widht="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharenezfiyana&label=Profile%20views&color=0e75b6&style=flat" alt="sharenezfiyana" /> </p>
