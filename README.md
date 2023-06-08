@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharenezfiyana&label=Profile%20views&color=0e75b6&style=flat" alt="sharenezfiyana" /> </p>
 
-- 🔭 I’m currently working on **BINUS SCHOOL Serpong IT Division as Associate Member**
+- 🔭 I’m currently working on **Kamoro Maxima Integra as Software Engineer**
 
-- 🌱 I’m currently learning **React Native and Laravel**
+- 🌱 I’m currently learning **.NET Framework**
 
 - 👯 I’m looking to collaborate on **web application projects**
 
